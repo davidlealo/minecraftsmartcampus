@@ -1,0 +1,46 @@
+.altura-custom{
+    padding-top: 4vh;
+}
+
+.ms-1 {
+    padding-left: 1.5vw !important;
+    padding-right: 1.5vw !important;
+  }
+
+.ancho-foto{
+      width: 250px;
+  }
+
+.color-boton-verde{
+      background-color: #77a832;
+  }
+
+.bg-color-custom-orange{
+      background-color: #FE5A1C;
+  }
+
+.bg-color-custom-neoncarrot{
+      background-color: #F8913F;
+  }
+
+.bg-color-custom-champagne{
+      background-color: #FAF0CB;
+  }
+
+.bg-color-custom-sprout{
+      background-color: #B0D0A0;
+  }
+
+.bg-color-custom-mantis{
+    background-color: #76BB51;
+}
+
+.bg-color-custom-wisteria{
+    background-color: #A360B2;
+}
+
+@media only screen and (max-width: 800px)  {
+  .footer img{
+    width: 70%;
+  }
+}
